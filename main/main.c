@@ -21,7 +21,7 @@
 
 #define QUERY_INTERVAL 5 //S
 
-#define HEART_RATE_THRESHOLD	80		//心率阈值
+#define HEART_RATE_THRESHOLD		80		//心率阈值
 #define X_AXIS_THRESHOLD		10		//x轴阈值
 #define Y_AXIS_THRESHOLD		10		//y轴阈值
 #define Z_AXIS_THRESHOLD		10		//z轴阈值
@@ -88,7 +88,7 @@ void sensorInit(void)
     
     gizLog(LOG_INFO,"Sensor initialization ...\n"); 
 
-	led_init();							//led init
+	led_init();						//led init
 	motor_init();						//motor init
 
     txm_module_object_allocate(&userTimer, sizeof(TX_TIMER));
