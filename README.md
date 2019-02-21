@@ -9,8 +9,7 @@ Start date: February 12th, 2019
 
 Function description:
 
-The main thing is to use the commands from the cloud to control the vibrator provided by Gokit4 development kit 
-to start or stop the vibration.
+Mainly to use the APP installed in mobile phone to send commands to control the vibrator provided by Gokit4 development kit to start/stop the vibration.
 
 Document introduction:
 
