@@ -1,4 +1,4 @@
-# demo-Smart-vibrator
+# demo-Smart-vibration-motor
 A Demo of Qualcomm MDM9206
 
 Basic Information:
