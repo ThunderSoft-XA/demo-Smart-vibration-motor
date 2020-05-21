@@ -9,7 +9,7 @@ Start date: February 12th, 2019
 
 Function description:
 
-Mainly to use the APP installed in mobile phone to send commands to control the vibrator provided by Gokit4 development kit to start/stop the vibration.
+For the promotion of Qualcomm technology.Mainly to use the APP installed in mobile phone to send commands to control the vibrator provided by Gokit4 development kit to start/stop the vibration.
 
 Document introduction:
 
